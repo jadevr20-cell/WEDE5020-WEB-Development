@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sitemap | All Green Foundation</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="index.html">All Green Foundation</a>
+    <nav aria-label="Main navigation">
+      <ul class="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="garden.html">Our Garden</a></li>
+        <li><a href="activities.html">Activities</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="menu.html">Produce</a></li>
+        <li><a href="promotions.html">Events</a></li>
+        <li><a href="order.html">Enquiry</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="sitemap.html" aria-current="page">Sitemap</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="page-main">
+    <section class="page-heading">
+      <h1>Website Sitemap</h1>
+      <p>Use these links to visit the website pages.</p>
+    </section>
+
+    <section class="content-section">
+      <ul class="sitemap-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About All Green Foundation</a></li>
+        <li><a href="garden.html">Our Garden</a></li>
+        <li><a href="activities.html">Projects and Activities</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="menu.html">Garden Produce</a></li>
+        <li><a href="promotions.html">Events and Workshops</a></li>
+        <li><a href="order.html">Produce Enquiry</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="404.html">404 Page</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 All Green Foundation. All rights reserved.</p>
+  </footer>
+</body>
+</html>
