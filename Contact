@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact | All Green Foundation</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="index.html">All Green Foundation</a>
+    <nav aria-label="Main navigation">
+      <ul class="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="garden.html">Our Garden</a></li>
+        <li><a href="activities.html">Activities</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="menu.html">Produce</a></li>
+        <li><a href="promotions.html">Events</a></li>
+        <li><a href="order.html">Enquiry</a></li>
+        <li><a href="contact.html" aria-current="page">Contact</a></li>
+        <li><a href="sitemap.html">Sitemap</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="page-main">
+    <section class="page-heading">
+      <p class="eyebrow">Get in touch</p>
+      <h1>Contact Us</h1>
+      <p>Contact us about volunteering, workshops, garden activities, or partnerships.</p>
+    </section>
+
+    <section class="content-section">
+      <h2>Contact details</h2>
+      <p>Email: <a href="mailto:info@allgreenfoundation.org">info@allgreenfoundation.org</a></p>
+      <p>Location: Add the foundation’s confirmed location.</p>
+      <p>Phone: Add a confirmed phone number if available.</p>
+      <p>
+        You can also visit the <a href="activities.html">activities page</a>
+        or read <a href="about.html">about the foundation</a>.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 All Green Foundation. All rights reserved.</p>
+    <p><a href="sitemap.html">View sitemap</a></p>
+  </footer>
+</body>
+</html>
