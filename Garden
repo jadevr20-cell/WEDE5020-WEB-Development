@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Our Garden | All Green Foundation</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="index.html">All Green Foundation</a>
+    <nav aria-label="Main navigation">
+      <ul class="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="garden.html" aria-current="page">Our Garden</a></li>
+        <li><a href="activities.html">Activities</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="menu.html">Produce</a></li>
+        <li><a href="promotions.html">Events</a></li>
+        <li><a href="order.html">Enquiry</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="sitemap.html">Sitemap</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="page-main">
+    <section class="page-heading">
+      <p class="eyebrow">A place to grow and learn</p>
+      <h1>Our Garden</h1>
+      <p>Our community garden supports food growing, practical learning, and environmental responsibility.</p>
+    </section>
+
+    <section class="content-section">
+      <h2>What you can explore</h2>
+      <div class="card-grid">
+        <article class="card">
+          <h3>Vegetable beds</h3>
+          <p>Community growing spaces for seasonal vegetables and food production.</p>
+        </article>
+        <article class="card">
+          <h3>Herbs and native plants</h3>
+          <p>Planting areas that support learning about useful and suitable plants.</p>
+        </article>
+        <article class="card">
+          <h3>Sustainable practices</h3>
+          <p>Opportunities to learn about soil care, composting, and water conservation.</p>
+        </article>
+      </div>
+      <p>See the <a href="gallery.html">garden photographs</a> or learn about our <a href="activities.html">activities</a>.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 All Green Foundation. All rights reserved.</p>
+    <p><a href="sitemap.html">View sitemap</a></p>
+  </footer>
+</body>
+</html>
