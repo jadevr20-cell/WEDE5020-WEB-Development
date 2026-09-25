@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gallery | All Green Foundation</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="index.html">All Green Foundation</a>
+    <nav aria-label="Main navigation">
+      <ul class="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="garden.html">Our Garden</a></li>
+        <li><a href="activities.html">Activities</a></li>
+        <li><a href="gallery.html" aria-current="page">Gallery</a></li>
+        <li><a href="menu.html">Produce</a></li>
+        <li><a href="promotions.html">Events</a></li>
+        <li><a href="order.html">Enquiry</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="sitemap.html">Sitemap</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="page-main">
+    <section class="page-heading">
+      <p class="eyebrow">Photos from the garden</p>
+      <h1>Gallery</h1>
+      <p>Pictures from the All Green Foundation project.</p>
+    </section>
+
+    <section class="content-section">
+      <div class="gallery">
+        <figure>
+          <img src="images/Picture%201.jpg" alt="Community garden photograph 1" loading="lazy">
+          <figcaption>Community garden</figcaption>
+        </figure>
+        <figure>
+          <img src="images/Picture%202.jpg" alt="Community garden photograph 2" loading="lazy">
+          <figcaption>Growing together</figcaption>
+        </figure>
+        <figure>
+          <img src="images/Picture%203.jpg" alt="Community garden photograph 3" loading="lazy">
+          <figcaption>Learning in the garden</figcaption>
+        </figure>
+        <figure>
+          <img src="images/Picture%204.jpg" alt="Community garden photograph 4" loading="lazy">
+          <figcaption>Garden activities</figcaption>
+        </figure>
+        <figure>
+          <img src="images/Picture%205.jpg" alt="Community garden photograph 5" loading="lazy">
+          <figcaption>Growing fresh food</figcaption>
+        </figure>
+        <figure>
+          <img src="images/Picture%206.jpg" alt="Community garden photograph 6" loading="lazy">
+          <figcaption>Our green community</figcaption>
+        </figure>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 All Green Foundation. All rights reserved.</p>
+    <p><a href="sitemap.html">View sitemap</a></p>
+  </footer>
+</body>
+</html>
